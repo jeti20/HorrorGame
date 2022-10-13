@@ -31,3 +31,5 @@ Updates:
 End of developing this projetcs. 
 ![](https://github.com/jeti20/HorrorGame/blob/main/png1.PNG)
 ![](https://github.com/jeti20/HorrorGame/blob/main/png2.PNG)
+![](https://youtu.be/De_Kcgnfe3M)
+https://youtu.be/De_Kcgnfe3M

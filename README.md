@@ -29,7 +29,7 @@ Updates:
 * Transition to scene3 with fadeout effect and falling to new scene (to keep this like a player fall the whole time"
 
 End of developing this projetcs. 
+Link to YouTube: https://youtu.be/De_Kcgnfe3M
 ![](https://github.com/jeti20/HorrorGame/blob/main/png1.PNG)
 ![](https://github.com/jeti20/HorrorGame/blob/main/png2.PNG)
-![](https://youtu.be/De_Kcgnfe3M)
-https://youtu.be/De_Kcgnfe3M
+
